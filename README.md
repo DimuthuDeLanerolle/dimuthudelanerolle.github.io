@@ -1,1 +1,1 @@
-# dimuthudelanerolle.github.io
+This is a private repository for terraform - © 2000 Dimuthu De Lanerolle. All rights reserved.Any unauthorized copying, alteration, distribution, transmission, performance, display or other use of this material is strictly prohibited.
